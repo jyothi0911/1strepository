@@ -9,6 +9,9 @@ public class ProjectGit1 {
 		System.out.println("enter the value");
 		 String s=sc.next();
 		System.out.println(s);
+		int a=200;
+		int b=300;
+		System.out.println(a);
 		
 		
 	}
